@@ -8,7 +8,7 @@ In this project, you will look at the character co-occurrence network and its ev
 
 This project assumes you are familiar with the networkx package in python and different network centrality measures. It also assumes that you have used pandas and can manipulate python DataFrames. Before starting this project we recommend that you have completed these knowledges:
 
-i) Network Analysis in Python (Part 1)
+i) Network Analysis in Python 
 ii) Python pandas Foundations
 
 
