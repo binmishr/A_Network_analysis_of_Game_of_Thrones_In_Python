@@ -26,6 +26,6 @@ iv) Double click to open the File on "Jupyter Notebook" software.
 v) The Jupyter notebook shall reside under the folder "A_Network_analysis_of_Game_of_Thrones_In_Python". 
    You can download the A_Network_analysis_of_Game_of_Thrones_In_Python.zip file and unzip at your favorite location to see the notebook.
 
-vi) The datasets which are used on this project shall reside under the folder A_Network_analysis_of_Game_of_Thrones\_\datasets
+vi) The datasets which are used on this project shall reside under the folder A_Network_analysis_of_Game_of_Thrones_In_Python\_\datasets
 
-vii) All the required images shall reside under folder A_Network_analysis_of_Game_of_Thrones\_\img
+vii) All the required images shall reside under folder A_Network_analysis_of_Game_of_Thrones_In_Python\_\img
